@@ -17,4 +17,4 @@ MasterCpp
 # Inheritance
 # p103.cpp	Inheritance in the English Distance class (it uses the Distance class)
 # p104.cpp	Class Hierarchies (it uses the employee, manager, scientist and worker classes)
-
+# p105.cpp  Public and Private Inheritance
