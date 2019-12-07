@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575735799 source:c:\work\github\mastercpp\p104\main.cpp
+	<iostream.h>
+	<conio.h>
+
