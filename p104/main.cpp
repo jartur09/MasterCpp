@@ -1,3 +1,4 @@
+// Author: JAC
 // p104.cpp Class Hierarchies
 
 #include <iostream.h>
