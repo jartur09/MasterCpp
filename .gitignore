@@ -1,2 +1,2 @@
-p104\bin\Debug\p104.exe
-p104\obj\Debug\main.o
+*.exe
+*.o
